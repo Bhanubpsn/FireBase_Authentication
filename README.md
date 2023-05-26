@@ -19,3 +19,7 @@ This demo app has the following tools ->
 *Use of FireBase/Cloud Firestore Authorization.
 *Use of TextButtons, Navigation push and pop.
 *Google Sign In and Log out.
+
+For using Firestore, the firebase should be set up in the project and the dependencies should be resolved.
+An account should be present in the Google Cloud Firestore and the app must be hosted on it.
+The SHA1 and SHA256 keys should be set up in the firebase authorization.
