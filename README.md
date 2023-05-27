@@ -22,7 +22,7 @@ This demo app has the following tools ->
 
 For using Firestore, the firebase should be set up in the project and the dependencies should be resolved.
 An account should be present in the Google Cloud Firestore and the app must be hosted on it.
-The SHA1 and SHA256 keys should be set up in the firebase authorization.
+The SHA1 and SHA256 keys should be set up in the firebase authenticaiton.
 
 
 <img src ="https://github.com/Bhanubpsn/Images_for_projects/blob/master/Firebase%20Auth/First_Screen.jpg">
